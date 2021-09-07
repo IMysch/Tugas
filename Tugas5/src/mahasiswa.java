@@ -57,4 +57,6 @@ class mahasiswa {
 
 
         }
-    }}
+        for(int npM:npm){
+            System.out.println(npM);
+    }}}
